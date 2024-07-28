@@ -21,7 +21,7 @@ Nach der Installation findest du eine Konfigurationsdatei im Ordner plugins/Rand
 
 Beispiel-Konfiguration:
 
-chances:
+-  chances:
   chanceLow: 1.0  # Wahrscheinlichkeit für das Auftreten von Items wie Früchte oder Holzbretter.
   chanceMiddle: 0.8  # Wahrscheinlichkeit für das Auftreten von Leder und Holz Ausrüstung.
   chanceHigh: 0.7  # Wahrscheinlichkeit für das Auftreten von Eisenketten und Stein Ausrüstung.
@@ -32,7 +32,7 @@ chances:
   chanceBest: 0.1  # Wahrscheinlichkeit für das Auftreten von Dracheneiern usw.
   chanceSwords: 1.0  # Wahrscheinlichkeit für das Auftreten von Legendären Schwertern.
 
-itemCounts:
+-  itemCounts:
   numLowMin: 4  # Mindestanzahl der Items mit niedriger Wahrscheinlichkeit.
   numLowMax: 9  # Höchstanzahl der Items mit niedriger Wahrscheinlichkeit.
   numMiddleMin: 2  # Mindestanzahl der Items mit mittlerer Wahrscheinlichkeit.
